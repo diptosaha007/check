@@ -1,0 +1,22 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",Star jalsha(C) Tv
+https://himel-op.top/portal/cooltvopp.m3u8?id=24600
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",Star jalsha(Yupp) Tv
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",Star jalsha(Nayeem) Tv
+http://tv.cloudcdn.me/live.ts?channelId=116592&uid=9592&deviceMac=00:1A:79:82:85:F0
+
+#EXTINF:-1 group-title="Kolkata " tvg-logo="https://i.imgur.com/ItU5C2m.png",Colors Bangla(Yupp TV)
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:-1 group-title="Kolkata " tvg-logo="https://i.imgur.com/ItU5C2m.png",Colors Bangla(Nayeem)
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bengali_HD_MOB/Fallback/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png",Zee Bangla HD
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Bangla_HD_MOB/Fallback/index.m3u8
