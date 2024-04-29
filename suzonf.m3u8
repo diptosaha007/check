@@ -133,3 +133,5 @@ http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 #EXTINF:-1 group-title="Bangla Movies" tvg-logo="http://172.27.27.84/movie_poster/Premalu_P.jpg",Premalu 
 http://172.27.27.124/s1d1/Tamil-2024/Premalu%20%282024%29/Premalu.%282024%29.Dual.1080p.mkv
 
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBORsb-HjoZu3qRvnHbwSLoff111LPlQ099M70cFlYWGOrQNjwyCoP0UMB&s=10",Sita Ram
+http://10.16.100.206/ftps3/ftps3d1/Movies/South%20Indian%20(Hindi%20Dubbed)/Sita%20Ramam%20(2022)%201080p%20WEBDL.mp4
