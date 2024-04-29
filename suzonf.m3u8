@@ -136,5 +136,5 @@ http://172.27.27.124/s1d1/Tamil-2024/Premalu%20%282024%29/Premalu.%282024%29.Dua
 #EXTINF:-1 group-title="South Indian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBORsb-HjoZu3qRvnHbwSLoff111LPlQ099M70cFlYWGOrQNjwyCoP0UMB&s=10",Sita Ram
 http://10.16.100.206/ftps3/ftps3d1/Movies/South%20Indian%20(Hindi%20Dubbed)/Sita%20Ramam%20(2022)%201080p%20WEBDL.mp4
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
