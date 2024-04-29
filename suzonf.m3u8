@@ -20,7 +20,8 @@ http://tv.cloudcdn.me/live.ts?channelId=116592&uid=9592&deviceMac=00:1A:79:82:85
 
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png",Zee Bangla HD(C)
 https://himel-op.top/portal/cooltvopp.m3u8?id=24601
-
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png",Zee Bangla HD(Jaddo)
+https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=zee_bangla
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png",Zee Bangla HD(ts)
 https://himel-op.top/portal/cdnop.ts?channelId=120
 
@@ -57,6 +58,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="",SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
+
+
 
 #EXTINF:-1 group-title="Kolkata"tvg-logo="https://i.ibb.co/P4xmskD/IMG-20240129-071636.jpg",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
