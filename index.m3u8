@@ -61,6 +61,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/
 #EXTINF:-1 group-title="Kolkata"tvg-logo="https://i.ibb.co/P4xmskD/IMG-20240129-071636.jpg",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
+#EXTINF:-1 group-title="Kolkata"tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png",Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png",T Sports (BDIX)
 https://live-cdn.tsports.com/live-02/index.m3u8
 
@@ -130,11 +133,15 @@ http://cdn01.palki.tv:80/live/SATV-M/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/0yHtY8tg/Somoy-TV.jpg",Somoy TV [Palki]
 http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
+https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
+
+
 #EXTINF:-1 group-title="South Indian" tvg-logo="http://172.27.27.84/movie_poster/Premalu_P.jpg",Premalu 
 http://172.27.27.124/s1d1/Tamil-2024/Premalu%20%282024%29/Premalu.%282024%29.Dual.1080p.mkv
 
 #EXTINF:-1 group-title="South Indian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBORsb-HjoZu3qRvnHbwSLoff111LPlQ099M70cFlYWGOrQNjwyCoP0UMB&s=10",Sita Ram
 http://10.16.100.206/ftps3/ftps3d1/Movies/South%20Indian%20(Hindi%20Dubbed)/Sita%20Ramam%20(2022)%201080p%20WEBDL.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies",Surongo
-https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
